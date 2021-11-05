@@ -1,0 +1,36 @@
+p{
+    color: grey;
+    text-align: left;
+}
+h4{
+    color: thistle;
+    text-align: center;
+}
+.life{
+    color: indianred;
+    font-weight: 100px;
+    font-style: italic;
+
+}
+#directions{
+    color: lightslategrey;
+}
+.beginning{
+    color: saddlebrown;
+}
+.Moringa{
+    color: sienna;
+}
+.hobbies{
+    color:gray;
+    text-shadow: gray;
+    font-style:italic;
+    font-weight: 20px;
+}
+.img{
+    float: right;
+    background-color: lightslategray;
+    padding: 25px;
+    border: 8px solid gray;
+    margin: 60px solid gray;
+}
